@@ -110,6 +110,11 @@ main h2 {
 main img {
     width: 100%;
 }
+
+picture img {
+ display: block;
+}
+
 main img.pequena {
     max-width: 350px;
     display: block;
